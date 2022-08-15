@@ -10,3 +10,4 @@ public class calculator {
         }
     }
 }
+//using doubly for loops we can do a triangle
